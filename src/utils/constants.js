@@ -5,3 +5,5 @@ export const youtube_API_URL =
 
 export const YOUTUBE_AUTO_SUGGESTIONS =
   'http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=';
+
+export const LIVE_CHAT_COUNT = 25;
